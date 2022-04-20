@@ -10,8 +10,8 @@ For seeing more of my portfolio, feel free to visit my <a href="https://davidesp
 
 <div id="stats">
   <a href="https://github.com/despinozap">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=despinozap&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=despinozap&layout=compact&langs_count=7&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=despinozap&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=despinozap&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
   
 <div id="snake"> 
