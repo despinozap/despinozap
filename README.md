@@ -21,4 +21,9 @@ For seeing more of my portfolio, feel free to visit my <a href="https://davidesp
 </div>
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
