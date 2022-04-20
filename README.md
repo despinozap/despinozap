@@ -19,3 +19,6 @@ For seeing more of my portfolio, feel free to visit my <a href="https://davidesp
   ![Snake animation](https://github.com/despinozap/despinozap/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
