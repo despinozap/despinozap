@@ -1,7 +1,9 @@
 # David Espinoza - Software Developer
 <div id="links">
-  <a href="https://www.linkedin.com/in/despinozap" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://davidespinoza.dev" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+  <p>
+    Disclaimer: All the statistics given below are based on my public repositories. Nonetheless, most of them had to be hidden as private due to contracts or privacy policies by the customers. <br />
+For seeing more of my portfolio, feel free to visit my <a href="https://davidespinoza.dev" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> and <a href="https://www.linkedin.com/in/despinozap" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> profile.
+  </p>
 </div>
 
 ###
