@@ -20,7 +20,7 @@ For seeing more of my portfolio, please feel free to visit my personal <a href="
   ![Snake animation](https://github.com/despinozap/despinozap/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-## My last 7-days commited activity
+## My last commited activity
 <!--START_SECTION:waka-->
 
 ```text
