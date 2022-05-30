@@ -24,10 +24,10 @@ For seeing more of my portfolio, please feel free to visit my personal <a href="
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   1 hr 53 mins    ███████████▓░░░░░░░░░░░░░   46.62 %
-Java       52 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.75 %
-CSS        52 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.66 %
-HTML       24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 %
+Markdown   1 hr 53 mins    ███████████▒░░░░░░░░░░░░░   44.98 %
+Java       52 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.99 %
+CSS        52 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.89 %
+HTML       33 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.11 %
 Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
