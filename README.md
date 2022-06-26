@@ -24,12 +24,12 @@ For seeing more of my portfolio, please feel free to visit my personal <a href="
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   11 hrs 47 mins  █████████████░░░░░░░░░░░░   52.46 %
-PHP          8 hrs 48 mins   █████████▓░░░░░░░░░░░░░░░   39.18 %
-Markdown     29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
-TypeScript   27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
-HTML         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-CSS          18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+JavaScript   7 hrs 19 mins   ███████████▓░░░░░░░░░░░░░   47.04 %
+PHP          6 hrs 37 mins   ██████████▓░░░░░░░░░░░░░░   42.61 %
+Markdown     29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+TypeScript   27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+HTML         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+YAML         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
