@@ -24,10 +24,9 @@ For seeing more of my portfolio, please feel free to visit my personal <a href="
 <!--START_SECTION:waka-->
 
 ```text
-PHP          1 hr 38 mins    ██████████████░░░░░░░░░░░   56.62 %
-HTML         33 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.11 %
-TypeScript   29 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.11 %
-Other        12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
+PHP          1 hr 30 mins    ██████████████████▓░░░░░░   74.32 %
+HTML         15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.51 %
+Other        12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 %
 ```
 
 <!--END_SECTION:waka-->
