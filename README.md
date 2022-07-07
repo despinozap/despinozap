@@ -24,8 +24,8 @@ For seeing more of my portfolio, please feel free to visit my personal <a href="
 <!--START_SECTION:waka-->
 
 ```text
-PHP          1 hr 14 mins    ████████████████████▓░░░░   82.89 %
-Other        12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.78 %
+HTML   1 min           █████████████████████████   100.00 %
+YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
