@@ -24,8 +24,12 @@ For seeing more of my portfolio, please feel free to visit my personal <a href="
 <!--START_SECTION:waka-->
 
 ```text
-HTML   1 min           █████████████████████████   100.00 %
-YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Docker       17 mins         ████████▒░░░░░░░░░░░░░░░░   33.67 %
+YAML         14 mins         ███████▒░░░░░░░░░░░░░░░░░   29.12 %
+PHP          9 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.77 %
+Markdown     8 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.84 %
+HTML         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
