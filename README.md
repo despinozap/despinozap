@@ -24,8 +24,12 @@ For seeing more of my portfolio, please feel free to visit my personal <a href="
 <!--START_SECTION:waka-->
 
 ```text
-JSON         25 mins         ████████████████████▓░░░░   82.03 %
-JavaScript   5 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.97 %
+HTML            28 mins         ████████▓░░░░░░░░░░░░░░░░   34.05 %
+Docker          27 mins         ████████▒░░░░░░░░░░░░░░░░   33.47 %
+YAML            9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.10 %
+Markdown        8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
+JSON            8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.98 %
+Apache Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
