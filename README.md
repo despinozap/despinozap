@@ -24,11 +24,12 @@ For seeing more of my portfolio, please feel free to visit my personal <a href="
 <!--START_SECTION:waka-->
 
 ```text
-MDX          4 hrs 15 mins   ███████████▓░░░░░░░░░░░░░   47.17 %
-JSON         1 hr 32 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.03 %
-Vue.js       1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 %
-Markdown     58 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 %
-Other        34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
+MDX          6 hrs 49 mins   ███████████▓░░░░░░░░░░░░░   47.29 %
+Vue.js       2 hrs 49 mins   █████░░░░░░░░░░░░░░░░░░░░   19.59 %
+JSON         1 hr 24 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
+JavaScript   58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
+Markdown     57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
+Other        43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
 ```
 
 <!--END_SECTION:waka-->
