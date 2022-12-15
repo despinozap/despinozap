@@ -24,12 +24,12 @@ For seeing more of my portfolio, please feel free to visit my personal <a href="
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js       5 hrs 8 mins    ███████████░░░░░░░░░░░░░░   44.55 %
-TypeScript   2 hrs 10 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.83 %
-JavaScript   1 hr 26 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.46 %
-Markdown     1 hr 22 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.87 %
-Bash         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
-PHP          17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Vue.js       5 hrs 26 mins   █████████████▒░░░░░░░░░░░   53.32 %
+TypeScript   1 hr 38 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.09 %
+Markdown     1 hr 13 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.08 %
+JavaScript   1 hr 5 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 %
+Bash         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+JSON         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
 ```
 
 <!--END_SECTION:waka-->
