@@ -24,12 +24,12 @@ For seeing more of my portfolio, please feel free to visit my personal <a href="
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js           12 hrs 18 mins  █████████▓░░░░░░░░░░░░░░░   39.29 %
-PHP              4 hrs 28 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.30 %
-JavaScript       4 hrs 8 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.21 %
-Blade Template   2 hrs 22 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
-YAML             1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
-TypeScript       1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+Vue.js           10 hrs 11 mins  █████████▓░░░░░░░░░░░░░░░   39.23 %
+PHP              4 hrs 19 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.61 %
+Blade Template   2 hrs 22 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 %
+JavaScript       2 hrs 21 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
+TypeScript       1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+Docker           1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
 ```
 
 <!--END_SECTION:waka-->
