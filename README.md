@@ -24,9 +24,9 @@ For seeing more of my portfolio, please feel free to visit my personal <a href="
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript       2 hrs 7 mins    ████████░░░░░░░░░░░░░░░░░   32.11 %
-Vue.js           1 hr 48 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.19 %
-Other            1 hr 20 mins    █████░░░░░░░░░░░░░░░░░░░░   20.30 %
+JavaScript       6 hrs 18 mins   ████████████▓░░░░░░░░░░░░   50.21 %
+Vue.js           3 hrs 2 mins    ██████░░░░░░░░░░░░░░░░░░░   24.23 %
+Other            1 hr 50 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.63 %
 ```
 
 <!--END_SECTION:waka-->
