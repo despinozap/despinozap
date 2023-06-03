@@ -23,12 +23,12 @@ For seeing more of my portfolio, please feel free to visit my personal <a href="
 ## My last commited activity
 <!--START_SECTION:waka-->
 
-```text
-JavaScript   3 hrs 54 mins   █████████▓░░░░░░░░░░░░░░░   38.34 %
-YAML         2 hrs 28 mins   ██████░░░░░░░░░░░░░░░░░░░   24.16 %
-Vue.js       1 hr 50 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.07 %
-Other        51 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
-JSON         31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
+```txt
+YAML         4 hrs 44 mins   █████████▒░░░░░░░░░░░░░░░   37.79 %
+JavaScript   3 hrs 49 mins   ███████▓░░░░░░░░░░░░░░░░░   30.47 %
+Vue.js       2 hrs 4 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.58 %
+Other        53 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
+JSON         50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
 ```
 
 <!--END_SECTION:waka-->
