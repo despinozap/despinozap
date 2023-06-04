@@ -24,11 +24,11 @@ For seeing more of my portfolio, please feel free to visit my personal <a href="
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         4 hrs 44 mins   █████████▒░░░░░░░░░░░░░░░   37.79 %
-JavaScript   3 hrs 49 mins   ███████▓░░░░░░░░░░░░░░░░░   30.47 %
-Vue.js       2 hrs 4 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.58 %
-Other        53 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
-JSON         50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
+YAML         7 hrs 40 mins   ██████████████▒░░░░░░░░░░   57.47 %
+JavaScript   2 hrs 31 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.96 %
+Vue.js       1 hr 39 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.47 %
+JSON         53 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
+Other        22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
 ```
 
 <!--END_SECTION:waka-->
