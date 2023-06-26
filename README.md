@@ -26,11 +26,11 @@ For seeing more of my portfolio, please feel free to visit my personal <a href="
 <!--START_SECTION:waka-->
 
 ```txt
-Other        3 hrs 20 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.52 %
-TypeScript   3 hrs 10 mins   ██████░░░░░░░░░░░░░░░░░░░   24.23 %
-JSON         1 hr 43 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 %
-PHP          1 hr 31 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
-JavaScript   1 hr 29 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.34 %
+Other        3 hrs 20 mins   █████████░░░░░░░░░░░░░░░░   35.78 %
+JSON         1 hr 43 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.47 %
+JavaScript   1 hr 29 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.90 %
+TypeScript   55 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 %
+Markdown     43 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
 ```
 
 <!--END_SECTION:waka-->
