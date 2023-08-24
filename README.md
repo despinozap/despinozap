@@ -19,16 +19,3 @@ For seeing more of my portfolio, please feel free to visit my personal <a href="
 
   ![Snake animation](https://github.com/despinozap/despinozap/blob/output/github-contribution-grid-snake.svg)
 </div>
-
-## My last commited activity
-<!--START_SECTION:waka-->
-
-```txt
-SCSS         4 hrs 40 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.77 %
-Vue.js       4 hrs 31 mins   ██████░░░░░░░░░░░░░░░░░░░   24.01 %
-JavaScript   3 hrs 30 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.58 %
-PHP          1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 %
-HTML         1 hr 36 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 %
-```
-
-<!--END_SECTION:waka-->
