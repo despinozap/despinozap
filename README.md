@@ -10,10 +10,10 @@ For seeing more of my portfolio, please feel free to visit my personal <a href="
 
 <div id="stats">
   <a href="https://github.com/despinozap">
-  <!--
+  
     <img height="180em" style="margin: 0em 10em;" src="https://github-readme-stats.vercel.app/api?username=despinozap&show_icons=true&include_all_commits=true&count_private=true&theme=default"/>
     <img height="180em" style="margin: 0em 10em;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=despinozap&layout=compact&langs_count=7&theme=default"/>
-  -->
+ 
 </div>
  
 ## Repository contributions
